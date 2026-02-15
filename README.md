@@ -4,7 +4,7 @@
 
 由于OpenAI推出了ChatGPT机器人，引起了全网关注。虽然OpenAI目前未在中国开放，但这并未阻挡大陆用户的热情，导致OpenAI注册用户迅速增长。由于注册需要验证手机号，这带动了 
 
-[GlobalSMS](https://2026sms.com/) 等国外实卡Telegram接码平台的使用。
+[GlobalSMS](https://2026sim.com/) 等国外实卡Telegram接码平台的使用。
 
 唯一官方网站：2024sms.com
 
@@ -13,7 +13,7 @@
 
 ## 什么是2026Telegram接码平台
 
-强烈推荐！[GlobalSMS](https://2026sms.com/)
+强烈推荐！[GlobalSMS](https://2026sim.com/)
 
 国外Telegram接码平台是收集大量手机卡资源的服务平台，提供接收和发送手机验证码的服务。当我们需要在某个平台上注册账号时，平台通常会通过短信验证码来确认身份。Telegram接码平台通过虚拟手机号码接收验证码，帮助用户在注册、认证、绑定和解绑时使用虚拟手机号码。
 
@@ -21,13 +21,13 @@
 
 GlobalSMSTelegram接码平台 是一个提供全球虚拟号码接收短信验证码服务的网站。用户可以在其平台上通过虚拟号码接收短信验证码进行注册、验证等操作。除了一次性号码，GlobalSMSTelegram接码平台 还提供长期租赁号码、转发连接和电话验证等服务。
 
-官网：[GlobalSMSTelegram接码平台](https://2026sms.com/)
+官网：[GlobalSMSTelegram接码平台](https://2026sim.com/)
 
 ## 如何使用 GlobalSMSTelegram接码平台
 
 ### 注册账号
 
-首先访问 [GlobalSMSTelegram接码平台](https://2026sms.com/)，将语言切换为中文，然后点击注册。可以使用邮箱或 Telegram 账号注册。
+首先访问 [GlobalSMSTelegram接码平台](https://2026sim.com/)，将语言切换为中文，然后点击注册。可以使用邮箱或 Telegram 账号注册。
 
 ![image](https://github.com/bh4863751/sms-free/assets/169990315/b6dc14c8-c6b1-453c-8188-8db91982e85a)
 
