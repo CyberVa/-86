@@ -6,7 +6,7 @@
 
 [GlobalSMS](https://2026sim.com/) 等国外实卡Telegram接码平台的使用。
 
-唯一官方网站：2024sms.com
+唯一官方网站：2026sim.com
 
 ![image](https://github.com/bh4863751/sms-free/assets/169990315/d2a0bedb-731f-4563-b6b1-5f95b63f96ea)
 
